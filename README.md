@@ -1,5 +1,5 @@
 # Introduction 
-noVNC is both a HTML VNC client JavaScript library and an application built on top of that library. noVNC runs well in any modern browser including mobile browsers (iOS and Android). It has builtin CloudCopare and QGIS for Geo purposes.
+noVNC is both a HTML VNC client JavaScript library and an application built on top of that library. noVNC runs well in any modern browser including mobile browsers (iOS and Android). It has builtin Cloud Compare and QGIS for Geo purposes.
 
 # Getting Started
 docker pull ghcr.io/m4h0ur/qgis-vnc:latest
